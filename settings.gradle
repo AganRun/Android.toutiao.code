@@ -1,0 +1,2 @@
+include ':app', 'TouTiao', ':Slidinglibrary', ':viewPagerIndicatorLibrary', ':jcvideoplayer-lib'
+include ':xUtilsLibrary'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Slidinglibrary/Slidinglibrary.iml" filepath="$PROJECT_DIR$/Slidinglibrary/Slidinglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TouTiao/TouTiao.iml" filepath="$PROJECT_DIR$/TouTiao/TouTiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TouTiaoProject.iml" filepath="$PROJECT_DIR$/TouTiaoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" filepath="$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtilsLibrary/xUtilsLibrary.iml" filepath="$PROJECT_DIR$/xUtilsLibrary/xUtilsLibrary.iml" />
+    </modules>
+  </component>
+</project>
